@@ -17,7 +17,7 @@ export const Data = [
     },
     {
         image: "https://th.bing.com/th/id/OIP.97LJZg32eCsyg7P9ZTKqOwHaFj?w=233&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
-        text: "Junte-se com a família por 1h (uma hora), desliguem todas as luzes e eletrodométicos e apenas conversem, para economizar energia e cultivar relações"
+        text: "Junte-se com a família por 1h (uma hora), desliguem todas as luzes e apenas conversem, para economizar energia e cultivar relações"
     },
     {
         image: "https://th.bing.com/th/id/OIP.XQ1CeM2FW6XbvPlRwyoVEQHaJQ?w=145&h=182&c=7&r=0&o=5&dpr=1.3&pid=1.7",
@@ -33,7 +33,7 @@ export const Data = [
     },
     {
         image: "https://th.bing.com/th/id/OIP.KDszGBHQRhvjw3jM1GjRugHaHa?w=197&h=197&c=7&r=0&o=5&dpr=1.3&pid=1.7",
-        text: "A próxima vez que for a algum lugar que considere perto, vã à pé em vez de ir de carro."
+        text: "A próxima vez que for a algum lugar que considere perto, vá à pé em vez de ir de carro."
     },
     {
         image: "https://th.bing.com/th/id/OIP.NUUEL6DKSELuQlIbpX_UqwHaHa?w=183&h=182&c=7&r=0&o=5&dpr=1.3&pid=1.7",
